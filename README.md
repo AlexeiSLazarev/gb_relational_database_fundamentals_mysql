@@ -1,2 +1,4 @@
 # gb_relational_database_fundamentals_mysql
-Основы реляционных баз данных. MySQL
+GeekBrains. Основы реляционных баз данных. MySQL
+
+https://gb.ru/lessons/175852
